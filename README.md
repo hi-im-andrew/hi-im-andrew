@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hi-im-andrew/hi-im-andrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,9 +14,10 @@ Here are some ideas to get you started:
 -->
 
 ## howdy hey, it's ya boi Andrew 🥶 🍦
+he/they
 [![Gmail Badge](https://img.shields.io/badge/-andrew.mh.le@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andrew.mh.le@gmail.com)](mailto:andrew.mh.le@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/hi-im-andrew/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/hi-im-andrew//)](https://www.linkedin.com/in/https://www.linkedin.com/in/hi-im-andrew//) [![Github Badge](https://img.shields.io/badge/-hi-im-andrew-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hi-im-andrew/)](https://www.github.com/hi-im-andrew/) <p align='left'>Hi, </p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1ii6YTofe5sXvy5EDEXRIv_5xJ1oF9xgeHri1t6YiUCE/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
-## Some of my Github Stats
+## Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=hi-im-andrew alt=hi-im-andrew /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=hi-im-andrew&show_icons=true&include_all_commits=true)](https://github.com/hi-im-andrew/github-readme-stats)
