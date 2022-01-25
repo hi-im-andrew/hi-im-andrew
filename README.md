@@ -45,7 +45,7 @@ banner coming soon. (he/they)
 
 **Misc**
 
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GPBNe7tYhV)
+[![Discord Badge](https://img.shields.io/badge/Discord_Nitro-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GPBNe7tYhV)
 [![MS Office Badge](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](#)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](#)
 
@@ -55,4 +55,3 @@ banner coming soon. (he/they)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=hi-im-andrew&show_icons=true&include_all_commits=true)](https://github.com/hi-im-andrew/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-im-andrew&layout=compact)](https://github.com/hi-im-andrew/github-readme-stats)
-
