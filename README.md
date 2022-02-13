@@ -22,7 +22,7 @@ banner coming soon. (he/they)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamnotandru)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/mikogoat)
 
-<p align='left'>I'm passionate about technology! I aspire to be well-versed in full stack web development as well as UI/UX design. I also like custom mechanical keyboards, cardistry, and R&B music. Hardcore Genshin Impact player and trash at League of Legends. I stream on Twitch sometimes!</p><p align='left'> You can see my resume <a href='https://docs.google.com/document/d/1ii6YTofe5sXvy5EDEXRIv_5xJ1oF9xgeHri1t6YiUCE/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
+<p align='left'>I'm passionate about technology! I aspire to be well-versed in full stack web development as well as UI/UX design. I also like custom mechanical keyboards, cardistry, and R&B music. Hardcore Genshin Impact player and trash at League of Legends. I stream on Twitch sometimes!</p><p align='left'> You can see my resume <a href='https://bruh.ninja/resume.pdf' target=_blank><u>here</u>.</a></p>
 
 ## Workspace
 
