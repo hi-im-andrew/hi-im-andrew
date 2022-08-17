@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # howdy hey, it's ya boi Andrew 🥶 🍦
-banner coming soon. (he/they)
+banner coming soon. (he/him)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrew.mh.le@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hi-im-andrew)
