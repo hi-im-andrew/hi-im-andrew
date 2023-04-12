@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# howdy hey, it's ya boi Andrew 🥶 🍦
-banner coming soon. (he/him)
+# hi, I'm Andrew. 🥶 🍦
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrew.mh.le@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hi-im-andrew)
@@ -22,7 +21,9 @@ banner coming soon. (he/him)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamnotandru)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/mikogoat)
 
-<p align='left'>I'm passionate about technology! I aspire to be well-versed in full stack web development as well as UI/UX design. I also like custom mechanical keyboards, cardistry, and R&B music. Hardcore Genshin Impact player and trash at League of Legends. I stream on Twitch sometimes!</p><p align='left'> You can see my resume <a href='https://bruh.ninja/resume.pdf' target=_blank><u>here</u>.</a></p>
+<!--
+You can see my resume <a href='https://bruh.ninja/resume.pdf' target=_blank><u>here</u>.</a></p>
+-->
 
 ## Workspace
 
@@ -42,12 +43,6 @@ banner coming soon. (he/him)
 
 [![GPU Badge](https://img.shields.io/badge/NVIDIA-RTX3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](#)
 [![CPU Badge](https://img.shields.io/badge/Intel%20Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](#)
-
-**Misc**
-
-[![Discord Badge](https://img.shields.io/badge/Discord_Nitro-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GPBNe7tYhV)
-[![MS Office Badge](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](#)
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](#)
 
 
 ## Github Stats
